@@ -1,7 +1,3 @@
-# Modify this code to update the DB schema diagram.
-# To reset the sample schema, replace everything with
-# two dots ('..' - without quotes).
-
 departments
 -
 dept_no VARCHAR PK
