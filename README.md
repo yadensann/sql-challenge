@@ -19,3 +19,7 @@ Analyzed the complete dataset and made tables to each corresponding request:
 - List all employees in the Sales department, including their employee number, last name, first name, and department name.
 - List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 - List the frequency count of employee last names, i.e., how many employees share each last name.
+
+#### To examine the "fake" data, a visualization of the data was generated using:
+- A histogram to visualize the most common salary ranges for employees.
+- A bar chart of average salary by employee job title.
